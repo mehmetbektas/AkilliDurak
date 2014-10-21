@@ -1,0 +1,6 @@
+C:\Users\Innocent\Desktop\Proje3\Proje3\bin\Proje3.dll
+C:\Users\Innocent\Desktop\Proje3\Proje3\bin\Proje3.pdb
+C:\Users\Innocent\Desktop\Proje3\Proje3\bin\OnBarcode.Barcode.BarcodeScanner.dll
+C:\Users\Innocent\Desktop\Proje3\Proje3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Innocent\Desktop\Proje3\Proje3\obj\Debug\Proje3.dll
+C:\Users\Innocent\Desktop\Proje3\Proje3\obj\Debug\Proje3.pdb
